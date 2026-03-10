@@ -1,0 +1,3 @@
+name: cad
+description: Fusion 360 CAD modeling assistant for sketches, extrude, revolve, shell, etc.
+trigger_keywords: ["cad", "model", "sketch", "extrude", "box", "cylinder", "cup", "shell"]

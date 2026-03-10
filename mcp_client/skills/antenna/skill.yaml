@@ -1,0 +1,3 @@
+name: antenna
+description: Antenna design assistant for patch, dipole, array, etc. Use when user mentions frequency, gain, bandwidth.
+trigger_keywords: ["antenna", "patch", "dipole", "frequency", "gain", "bandwidth"]

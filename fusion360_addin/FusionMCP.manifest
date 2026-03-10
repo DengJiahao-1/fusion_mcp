@@ -1,0 +1,12 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "com.fusion3.mcp.addin",
+  "name": "Fusion 360 MCP Add-in",
+  "description": "提供 HTTP API 接口供 MCP 服务器调用",
+  "author": "l",
+  "version": "1.0.0",
+  "runOnStartup": false
+}
+
+
